@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Satisfy&display=swap');
+
+.iconHeaderM {
+  font-size: 1.2rem;
+  color: coral;
+  position: absolute;
+  margin-left: 45%;
+}
+
+.iconHeaderY {
+  font-size: 1.2rem;
+  color: beige;
+  position: absolute;
+  margin-left: 45%;
+}
